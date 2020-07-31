@@ -6,3 +6,4 @@ I am interested in Competitive Programming, Website Development both Front-end a
 
 In addition, I am also interested in System Analysis and Design because I believe that an efficient system and well design in terms of the user interface (UI) and user experience (UX) will make people's lives better. And I am interested in video editing, photography, photo editing, and using technology tools such as Microsoft Power Automate to make my life easier.
 
+Know more about me >> https://ggolfz.github.io
