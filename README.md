@@ -1,4 +1,4 @@
-[!GGolfz's github stats](https://github-readme-stats.vercel.app/api?username=ggolfz&count_private=true&show_icons=true&theme=radical)
+![GGolfz's github stats](https://github-readme-stats.vercel.app/api?username=ggolfz&count_private=true&show_icons=true&theme=radical)
 
 ### Glad to see you! My name is Wisarut Kitticharoenphonngam. You can call me Golf.
 
