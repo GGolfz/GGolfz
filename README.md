@@ -7,7 +7,7 @@ I am a sophomore student in Computer Science, School of Information Technology, 
 Know more about me >> https://ggolfz.github.io
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
 **🐱 My Github Data** 
 
