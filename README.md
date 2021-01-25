@@ -7,11 +7,11 @@ I am a sophomore student in Computer Science, School of Information Technology, 
 Know more about me >> https://ggolfz.github.io
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 336 Contributions in the Year 2021
+> 🏆 337 Contributions in the Year 2021
  > 
 > 📦 256.7 kB Used in Github's Storage 
  > 
