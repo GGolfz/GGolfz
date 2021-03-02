@@ -2,7 +2,7 @@
 
 I am a sophomore student in Computer Science, School of Information Technology, King Mongkut's University of Technology Thonburi (KMUTT).
 
-Know more about me >> https://ggolfz.github.io
+Know more about me >> https://ggolfz.codes
 
 <img src="https://github.com/GGolfz/GGolfz/blob/master/terminal.gif" alt="terminal-image" width="100%">
 
