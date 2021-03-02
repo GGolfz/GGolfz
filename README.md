@@ -1,3 +1,5 @@
+<img src="https://github.com/GGolfz/GGolfz/blob/master/terminal.gif" alt="terminal-image" width="100%">
+
 ![GGolfz's github stats](https://github-readme-stats.vercel.app/api?username=ggolfz&count_private=true&show_icons=true&theme=radical)
 
 ![GGolfz's steak stats](https://github-readme-streak-stats.herokuapp.com/?user=ggolfz&count_private=true&theme=radical)
