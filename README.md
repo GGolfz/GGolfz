@@ -1,15 +1,5 @@
-<div style="display:flex; flex-wrap:wrap;justify-content:space-between;">
-<div>
- 
-![GGolfz's github stats](https://github-readme-stats.vercel.app/api?username=ggolfz&count_private=true&show_icons=true&theme=radical)
-
- </div>
- <div>
- 
+![GGolfz's github stats](https://github-readme-stats.vercel.app/api?username=ggolfz&count_private=true&show_icons=true&theme=radical) &nbsp; &nbsp;
 ![GGolfz's steak stats](https://github-readme-streak-stats.herokuapp.com/?user=ggolfz&count_private=true&theme=radical)
-
- </div>
- </div>
 
 ### Glad to see you! My name is Wisarut Kitticharoenphonngam. You can call me Golf.
 
