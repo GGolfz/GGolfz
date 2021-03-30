@@ -16,7 +16,7 @@ Know more about me >> https://ggolfz.codes
 
 **🐱 My Github Data** 
 
-> 🏆 971 Contributions in the Year 2021
+> 🏆 986 Contributions in the Year 2021
  > 
 > 📦 697.1 kB Used in Github's Storage 
  > 
