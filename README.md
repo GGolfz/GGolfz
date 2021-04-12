@@ -12,11 +12,11 @@ Know more about me >> https://ggolfz.codes
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,201 Contributions in the Year 2021
+> 🏆 1,207 Contributions in the Year 2021
  > 
 > 📦 698.9 kB Used in Github's Storage 
  > 
@@ -38,13 +38,13 @@ Know more about me >> https://ggolfz.codes
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       257 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
+Monday       263 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
 Tuesday      292 commits    █████░░░░░░░░░░░░░░░░░░░░   19.62% 
 Wednesday    144 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
 Thursday     143 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
 Friday       305 commits    █████░░░░░░░░░░░░░░░░░░░░   20.5% 
 Saturday     164 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-Sunday       183 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.3%
+Sunday       177 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.9%
 
 ```
 
