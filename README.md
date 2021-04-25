@@ -12,13 +12,13 @@ Know more about me >> https://ggolfz.codes
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,372 Contributions in the Year 2021
+> 🏆 1,394 Contributions in the Year 2021
  > 
-> 📦 703.1 kB Used in Github's Storage 
+> 📦 703.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
