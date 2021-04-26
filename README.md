@@ -16,15 +16,15 @@ Know more about me >> https://ggolfz.codes
 
 **🐱 My Github Data** 
 
-> 🏆 1,394 Contributions in the Year 2021
+> 🏆 1,403 Contributions in the Year 2021
  > 
 > 📦 703.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 68 Public Repositories 
+> 📜 69 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
