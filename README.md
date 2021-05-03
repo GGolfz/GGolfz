@@ -12,19 +12,19 @@ Know more about me >> https://ggolfz.codes
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,441 Contributions in the Year 2021
+> 🏆 1,443 Contributions in the Year 2021
  > 
-> 📦 704.7 kB Used in Github's Storage 
+> 📦 704.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 69 Public Repositories 
+> 📜 70 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
