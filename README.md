@@ -12,13 +12,13 @@ Know more about me >> https://ggolfz.codes
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,506 Contributions in the Year 2021
+> 🏆 1,519 Contributions in the Year 2021
  > 
-> 📦 705.0 kB Used in Github's Storage 
+> 📦 705.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,9 +73,9 @@ No Activity Tracked This Week
 ```text
 JavaScript               26 repos            ████████░░░░░░░░░░░░░░░░░   32.5% 
 Vue                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Dart                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Dart                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
 Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
