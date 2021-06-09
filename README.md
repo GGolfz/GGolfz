@@ -12,11 +12,11 @@ Know more about me >> https://ggolfz.codes
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,935 Contributions in the Year 2021
+> 🏆 1,937 Contributions in the Year 2021
  > 
 > 📦 732.6 kB Used in Github's Storage 
  > 
@@ -40,11 +40,11 @@ Know more about me >> https://ggolfz.codes
 ```text
 Monday       243 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
 Tuesday      337 commits    █████░░░░░░░░░░░░░░░░░░░░   19.62% 
-Wednesday    171 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.95% 
+Wednesday    173 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
 Thursday     181 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
 Friday       344 commits    █████░░░░░░░░░░░░░░░░░░░░   20.02% 
 Saturday     220 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
-Sunday       222 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
+Sunday       220 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.81%
 
 ```
 
@@ -81,4 +81,5 @@ Java                     4 repos             █░░░░░░░░░░�
 
 
 
+ Last Updated on 09/06/2021
 <!--END_SECTION:waka-->
