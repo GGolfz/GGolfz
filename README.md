@@ -15,11 +15,11 @@ Know more about me >> https://ggolfz.codes
 ![GGolfz's steak stats](https://github-readme-streak-stats.herokuapp.com/?user=ggolfz&count_private=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,096 Contributions in the Year 2021
+> 🏆 2,099 Contributions in the Year 2021
  > 
 > 📦 733.4 kB Used in Github's Storage 
  > 
@@ -84,5 +84,5 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2021
+ Last Updated on 03/07/2021
 <!--END_SECTION:waka-->
