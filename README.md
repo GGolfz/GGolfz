@@ -15,11 +15,11 @@ Know more about me >> https://ggolfz.codes
 ![GGolfz's steak stats](https://github-readme-streak-stats.herokuapp.com/?user=ggolfz&count_private=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,144 Contributions in the Year 2021
+> 🏆 2,146 Contributions in the Year 2021
  > 
 > 📦 734.0 kB Used in Github's Storage 
  > 
@@ -44,9 +44,9 @@ Know more about me >> https://ggolfz.codes
 Monday       246 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
 Tuesday      308 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
 Wednesday    179 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
-Thursday     199 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
+Thursday     197 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
 Friday       310 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
-Saturday     202 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
+Saturday     204 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 Sunday       188 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.52%
 
 ```
@@ -84,5 +84,5 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
