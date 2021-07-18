@@ -1,6 +1,6 @@
 ### Glad to see you! My name is Wisarut Kitticharoenphonngam. You can call me Golf.
 
-I am a sophomore student in Computer Science, School of Information Technology, King Mongkut's University of Technology Thonburi (KMUTT).
+I am a junior student in Computer Science, School of Information Technology, King Mongkut's University of Technology Thonburi (KMUTT).
 
 Know more about me >> https://ggolfz.codes
 
