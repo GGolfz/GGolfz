@@ -17,6 +17,8 @@ Know more about me >> https://ggolfz.codes
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20million%20lines%20of%20code-blue)
+
 **🐱 My Github Data** 
 
 > 🏆 2,351 Contributions in the Year 2021
@@ -55,33 +57,7 @@ Sunday       195 commits    ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               32 repos            █████████░░░░░░░░░░░░░░░░   35.96% 
-Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
-Dart                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
-Vue                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.74%
-
-```
-
 
 
  Last Updated on 25/07/2021
