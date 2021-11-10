@@ -13,8 +13,3 @@ Know more about me >> https://ggolfz.me
 ![GGolfz's github stats](https://github-readme-stats.vercel.app/api?username=ggolfz&count_private=true&show_icons=true&theme=radical)
 
 ![GGolfz's steak stats](https://github-readme-streak-stats.herokuapp.com/?user=ggolfz&count_private=true&theme=radical)
-
-<!--START_SECTION:waka-->
-
- Last Updated on 09/11/2021
-<!--END_SECTION:waka-->
