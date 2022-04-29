@@ -8,16 +8,19 @@ You can know more about me >> https://ggolfz.me
 
 <img src="https://github.com/GGolfz/GGolfz/blob/master/terminal.gif" alt="terminal-image" width="100%">
 
-<img src="https://img.shields.io/badge/-Python-141010?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/-JavaScript-141010?style=for-the-badge&logo=JavaScript">
-<img src="https://img.shields.io/badge/-TypeScript-141010?style=for-the-badge&logo=TypeScript">
-<img src="https://img.shields.io/badge/-Ruby-141010?style=for-the-badge&logo=Ruby">
-<img src="https://img.shields.io/badge/-Dart-141010?style=for-the-badge&logo=Dart">
-<img src="https://img.shields.io/badge/-Swift-141010?style=for-the-badge&logo=Swift">
-<img src="https://img.shields.io/badge/-Java-141010?style=for-the-badge&logo=Java">
-<img src="https://img.shields.io/badge/-R-141010?style=for-the-badge&logo=R">
-<img src="https://img.shields.io/badge/-PHP-141010?style=for-the-badge&logo=PHP">
+<div>
+<img src="https://img.shields.io/badge/-Python-484f58?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/-JavaScript-484f58?style=for-the-badge&logo=JavaScript">
+<img src="https://img.shields.io/badge/-TypeScript-484f58?style=for-the-badge&logo=TypeScript">
+<img src="https://img.shields.io/badge/-Ruby-484f58?style=for-the-badge&logo=Ruby">
+<img src="https://img.shields.io/badge/-Dart-484f58?style=for-the-badge&logo=Dart">
+<img src="https://img.shields.io/badge/-Swift-484f58?style=for-the-badge&logo=Swift">
+<img src="https://img.shields.io/badge/-Java-484f58?style=for-the-badge&logo=Java">
+<img src="https://img.shields.io/badge/-R-484f58?style=for-the-badge&logo=R">
+<img src="https://img.shields.io/badge/-PHP-484f58?style=for-the-badge&logo=PHP">
+</div>
 
+<br>
 
 ![GGolfz's Trophy](https://github-profile-trophy.vercel.app/?username=ggolfz&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
