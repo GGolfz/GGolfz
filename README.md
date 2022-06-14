@@ -16,6 +16,7 @@ You can know more about me >> https://ggolfz.me
 <img src="https://img.shields.io/badge/-Dart-484f58?style=for-the-badge&logo=Dart">
 <img src="https://img.shields.io/badge/-Swift-484f58?style=for-the-badge&logo=Swift">
 <img src="https://img.shields.io/badge/-Java-484f58?style=for-the-badge&logo=Java">
+<img src="https://img.shields.io/badge/-Scala-484f58?style=for-the-badge&logo=Scala">
 <img src="https://img.shields.io/badge/-R-484f58?style=for-the-badge&logo=R">
 <img src="https://img.shields.io/badge/-PHP-484f58?style=for-the-badge&logo=PHP">
 </div>
