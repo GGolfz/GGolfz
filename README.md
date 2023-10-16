@@ -1,7 +1,7 @@
 ### Glad to see you! My name is Wisarut Kitticharoenphonngam. You can call me Golf.
 
 I'm currently working as a software engineer. I graduated from the Computer Science program at the School of Information Technology at King Mongkut's University of Technology Thonburi (KMUTT). During my time at KMUTT, I had the opportunity to serve as the lead for the Google Developer Student Club and I was also a Beta Microsoft Learn Student Ambassador for Thailand. I'm excited to share my knowledge and experience with you all.
-You can know more about me >> https://ggolfz.me
+
 
 <link rel="preload" as="image" href="https://github.com/GGolfz/GGolfz/blob/master/terminal.gif">
 
